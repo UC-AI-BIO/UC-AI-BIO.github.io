@@ -126,25 +126,71 @@ sections:
       spacing:
         padding: ['0', '0', '3rem', '0']
   
-  - block: collection
-    id: news
+  - block: markdown
+    id: events
     content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        folders:
-          - post
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
+      title: 'Recent News & Events'
+      text: |
+        <div style="padding: 10px 0;">
+          <ul style="list-style-type: none; padding-left: 1.5rem; line-height: 1.8;">
+            <li style="margin-bottom: 20px; position: relative;">
+              <span style="position: absolute; left: -1.95rem; top: 0.5rem; height: 12px; width: 12px; background-color: #555; border-radius: 50%;"></span>
+              <strong>[Mar 2026]</strong> Dr. Kelly Cohen named the 2026 International KS Fu Award Recipient.
+            </li>
+            <li style="margin-bottom: 20px; position: relative;">
+              <span style="position: absolute; left: -1.95rem; top: 0.5rem; height: 12px; width: 12px; background-color: #555; border-radius: 50%;"></span>
+              <strong>[Mar 2026]</strong> Tri Nguyen and Nate Steffen successfully passed their PhD Qualifiers and Master's Defense. 🎉
+            </li>
+            <li style="margin-bottom: 20px; position: relative;">
+              <span style="position: absolute; left: -1.95rem; top: 0.5rem; height: 12px; width: 12px; background-color: #555; border-radius: 50%;"></span>
+              <strong>[Feb 2026]</strong> Hugo Henry successfully passed his PhD Qualifier!
+            </li>
+            <li style="margin-bottom: 20px; position: relative;">
+              <span style="position: absolute; left: -1.95rem; top: 0.5rem; height: 12px; width: 12px; background-color: #555; border-radius: 50%;"></span>
+              <strong>[Feb 2026]</strong> AI Bio Lab presents at the AI & Emerging Technology Symposium: "Bearcats AI Ready!"
+            </li>
+            <li style="margin-bottom: 20px; position: relative;">
+              <span style="position: absolute; left: -1.95rem; top: 0.5rem; height: 12px; width: 12px; background-color: #555; border-radius: 50%;"></span>
+              <strong>[Jan 2026]</strong> UC Graduate Lynn Pickering featured in OFRN for her work on trustworthy aerospace AI.
+            </li>
+            <li style="margin-bottom: 20px; position: relative;">
+              <span style="position: absolute; left: -1.95rem; top: 0.5rem; height: 12px; width: 12px; background-color: #555; border-radius: 50%;"></span>
+              <strong>[Jan 2026]</strong> Rebecca Gilligan's success story featured by the Ohio Federal Research Network.
+            </li>
+            <li style="margin-bottom: 20px; position: relative;">
+              <span style="position: absolute; left: -1.95rem; top: 0.5rem; height: 12px; width: 12px; background-color: #555; border-radius: 50%;"></span>
+              <strong>[Oct 2025]</strong> Magnus Sieverding, Nate Steffen, and Lohith Pentapalli successfully passed their PhD Qualifiers.
+            </li>
+            <li style="margin-bottom: 20px; position: relative;">
+              <span style="position: absolute; left: -1.95rem; top: 0.5rem; height: 12px; width: 12px; background-color: #555; border-radius: 50%;"></span>
+              <strong>[Jun 2025]</strong> Congratulations to Lynn Pickering on successfully defending her PhD! 🎓
+            </li>
+          </ul>
+        </div>
     design:
-      view: compact
       columns: '1'
+      spacing:
+        padding: ['1rem', '0', '3rem', '0']
+  
+  # - block: collection
+  #   id: news
+  #   content:
+  #     title: Latest News
+  #     subtitle:
+  #     text:
+  #     count: 5
+  #     filters:
+  #       folders:
+  #         - post
+  #       author: ''
+  #       category: ''
+  #       exclude_featured: false
+  #       publication_type: ''
+  #       tag: ''
+  #     offset: 0
+  #     order: desc
+  #     page_type: post
+  #   design:
+  #     view: compact
+  #     columns: '1'
 ---
