@@ -72,7 +72,7 @@ social:
 
 # Groups for People widget
 user_groups:
-  - Researchers
+  - Ph.D. Students
 ---
 
 Bharadwaj “Ben” Dogga is a PhD candidate in Aerospace Engineering at the University of Cincinnati.
