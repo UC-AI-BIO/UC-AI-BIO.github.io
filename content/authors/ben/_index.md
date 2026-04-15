@@ -69,9 +69,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: "https://www.linkedin.com/in/doggabj/"
-  # - icon: github
-  #   icon_pack: fab
-  #   link: ""
+  - icon: github
+    icon_pack: fab
+    link: "https://github.com/doggabj"
 
 # Groups for People widget
 user_groups:
