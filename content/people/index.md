@@ -16,6 +16,8 @@ sections:
           - Researchers
           - Ph.D. Students
           - Grad Students
+          - Masters
+          - Undergraduate Students
           - Administration
           - Visitors
           - Alumni
