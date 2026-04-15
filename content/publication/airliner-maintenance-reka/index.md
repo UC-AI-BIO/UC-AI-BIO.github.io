@@ -5,7 +5,7 @@ title: 'Fuzzy Logic Enabled Advanced Monitoring for Airliner Maintenance'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Reka Patel
+  - reka
   - hugo
   - kelly
 
