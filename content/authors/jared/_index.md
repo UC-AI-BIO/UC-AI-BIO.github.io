@@ -17,7 +17,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: PhD Candidate, Aerospace Engineering
+role: Ph.D. Candidate, Aerospace Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -57,6 +57,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jared-burton-33731a12b/
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Jared-Burton
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/

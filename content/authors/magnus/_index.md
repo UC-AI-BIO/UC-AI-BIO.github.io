@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate, Aerospace Engineering
+role: Ph.D. Candidate, Aerospace Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -57,6 +57,12 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/magnus-sieverding/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/sievermf
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Magnus-Sieverding
 #   - icon: github
 #     icon_pack: fab
 #     link: https://github.com/lohithsrikanth
@@ -100,3 +106,12 @@ Fuzzy Logic to large, real-world engineering problems.
   Precious Plastic, Cincinnati, Ohio, United States  
   *September 2021 – December 2021*
 
+He is also the founder and CEO of Xtainable LLC, a company built on the thesis that AI should be
+explainable first, then configured to be Sustainable, Maintainable, Attainable, and Containable for
+regulated industries such as healthcare, finance, and government. Its flagship product, EXI
+(Explainable Executive Intelligence), delivers auditable executive decision support.
+
+### Awards
+
+- Co-author, Best Student Paper Award, NAFIPS 2026
+- First author, Outstanding Paper Award, NAFIPS 2025

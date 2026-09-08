@@ -17,7 +17,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: PhD Candidate, Aerospace Engineering
+role: Ph.D. Candidate, Aerospace Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -89,3 +89,5 @@ verification and validation of AI techniques used in space proximity operations.
 research involves optimization of robotic arms for on-orbit servicing and inspection
 procedures, and he is also exploring the use of AI for path planning and autonomy in other
 key space robotics missions.
+
+He earned his M.S. in Aerospace Engineering at the University of Cincinnati in March 2026 with the thesis *Fuzzy Ordinary Differential Equations for Intelligent Aerospace Applications*.

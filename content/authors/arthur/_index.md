@@ -8,7 +8,7 @@ last_name: Tsai
 
 # Username (this should match the folder name)
 authors:
-  - Arthur
+  - arthur
 
 # Is this the primary user of the site?
 superuser: false
@@ -17,7 +17,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: Master, Aerospace Engineering
+role: M.S. Student, Aerospace Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -74,8 +74,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - 'M.S. Students'
   # - Visitors
 ---
-
-Kaus is a Computer Science student pursuing a Bachelors and Masters in Computer Science and is interested in researching how to scale interpretable models up for better results while maintaining interpretretability.

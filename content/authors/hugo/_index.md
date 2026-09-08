@@ -17,7 +17,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: PhD Candidate, Aerospace Engineering
+role: Ph.D. Candidate, Aerospace Engineering
 
 # Affiliations
 organizations:
@@ -65,9 +65,12 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: "https://www.linkedin.com/in/hugo-henry-921287220/"
-  # - icon: github
-  #   icon_pack: fab
-  #   link: ""
+  - icon: github
+    icon_pack: fab
+    link: "https://github.com/Sirlongchau"
+  - icon: orcid
+    icon_pack: ai
+    link: "https://orcid.org/0009-0001-2530-3521"
 
 # Groups for People widget
 user_groups:
@@ -96,3 +99,7 @@ Hugo is developing a fuzzy-logic-based system to predict hazardous zones and gen
 commands to prevent potential incidents. This work also aims to demonstrate that AI-driven
 control systems can achieve a level of explainability sufficient for certification by aviation
 authorities such as the **FAA** and **EASA**.
+
+### Awards
+
+- Outstanding Student Paper Award, NAFIPS 2026
