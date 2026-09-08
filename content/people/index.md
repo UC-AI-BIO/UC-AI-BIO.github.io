@@ -23,4 +23,6 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+summary: 'The people of the AI Bio Lab at the University of Cincinnati: Prof. Kelly Cohen, current doctoral, master''s and undergraduate researchers, and the lab''s Ph.D. and M.S. alumni.'
+description: 'The people of the AI Bio Lab at the University of Cincinnati: Prof. Kelly Cohen, current doctoral, master''s and undergraduate researchers, and the lab''s Ph.D. and M.S. alumni.'
 ---
