@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'AI Bio Lab, University of Cincinnati'
+    description: 'The University of Cincinnati AI Bio Lab develops assurance-ready artificial intelligence for aerospace, healthcare, and other safety-critical applications. Led by Prof. Kelly Cohen, the lab advances explainable fuzzy and hybrid AI, genetic fuzzy systems, autonomy, biomedical intelligence, and engineering methods that support traceability, robustness, verification, and responsible deployment.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -41,7 +41,7 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 
@@ -75,7 +75,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/UC-AI-BIO/UC-AI-BIO.github.io'
     content_dir: content
     branch: main
   avatar:
@@ -110,9 +110,6 @@ features:
 # Extensions
 
 extensions:
-  decap_cms:
-    branch: main
-    local_backend: false
   academicons:
     enable: true
 
