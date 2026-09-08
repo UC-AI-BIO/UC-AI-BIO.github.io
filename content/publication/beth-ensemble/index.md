@@ -7,7 +7,7 @@ title: 'Bridging the Closed-World Gap: Interpretable Anomaly Detection via a Hyb
 authors:
   - lohith
   - Josette Riep
-  - Justin Ouwerkerk
+  - justin-ouwerkerk
   - kelly
 
 # # Author notes (optional)

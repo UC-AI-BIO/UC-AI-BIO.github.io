@@ -5,7 +5,7 @@ title: 'Utilization of VAT for Hot-start of TSP solutions'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Scott Phillips
+  - scott
   - kelly
 
 # # Author notes (optional)

@@ -1,5 +1,5 @@
 ---
-title: 'Fuzzy Logic Based Scheduling for Part-time Workforce'
+title: 'LLM-as-a-Fuzzy-Judge'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
