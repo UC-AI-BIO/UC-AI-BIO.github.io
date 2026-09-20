@@ -19,10 +19,6 @@ sections:
           Thank you for your interest in participating in our research. To apply for a research position, please complete this [Google Form](https://forms.gle/DAAyGLXR9576JZuy8). We will be in touch if there is a match.
 
         If you are interested in joining the lab, we encourage you to review our current research areas and publications before applying. Please contact us by email for inquiries about research opportunities, collaborations, or lab visits.
-
-        ---
-
-        *Lab members: see the [contribution guide](https://github.com/UC-AI-BIO/UC-AI-BIO.github.io/blob/main/CONTRIBUTING.md) to add yourself to this site.*
       office_hours: []
 
   - block: contact
