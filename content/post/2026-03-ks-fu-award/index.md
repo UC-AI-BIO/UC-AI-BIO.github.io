@@ -6,6 +6,9 @@ authors:
 tags:
   - news
 featured: false
+image:
+  caption: 'Dr. Kelly Cohen receives the K.S. Fu Award at NAFIPS 2026.'
+  focal_point: Smart
 # external_link: ''  # set this to the article URL for link-out (Type A) items
 ---
 
