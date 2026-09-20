@@ -20,14 +20,14 @@ The space brings UC and Thales researchers together on trustworthy artificial in
 advanced air mobility — the same ground the AI Bio Lab has worked for years.
 
 For this lab the partnership is a homecoming. The Thales team in Cincinnati is staffed by AI Bio Lab
-alumni. **Nicholas Ernest**, now Thales' chief architect, earned his Ph.D. here in 2015 with
+alumni. **Dr. Nicholas Ernest**, now Thales' chief architect, earned his Ph.D. here in 2015 with
 *Genetic Fuzzy Trees for Intelligent Control of Unmanned Combat Aerial Vehicles* — the work behind
-the genetic fuzzy AI that outmaneuvered experienced fighter pilots in simulation. **Tim Arnett**,
+the genetic fuzzy AI that outmaneuvered experienced fighter pilots in simulation. **Dr. Tim Arnett**,
 now a senior AI researcher at Thales, completed his Ph.D. here in 2019 on formally verifiable fuzzy
-systems and received the NAFIPS Early Career Award in 2025. Ernest joined the panel discussion at
+systems and received the NAFIPS Early Career Award in 2025. Dr. Ernest joined the panel discussion at
 the opening.
 
-That shared lineage is visible in the research itself. Ernest and Arnett are co-authors with current
+That shared lineage is visible in the research itself. Dr. Ernest and Dr. Arnett are co-authors with current
 lab members on [A Genetic Fuzzy-Enabled Framework on Robotic Manipulation for In-Space
 Servicing](/publication/gfs-inspace-servicing/), which combines Genetic Fuzzy Trees with LQR control
 through Thales' TrUE AI Toolkit and won the Best Student Paper Award at NAFIPS 2025, and on
