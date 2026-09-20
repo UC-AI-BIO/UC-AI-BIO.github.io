@@ -13,6 +13,9 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+# Highlight the author in lists?
+highlight_name: true
+
 # Role/position
 role: Ph.D. Candidate, Aerospace Engineering
 
@@ -105,11 +108,6 @@ Fuzzy Logic to large, real-world engineering problems.
 - **Engineering Intern, Manufacturing & Development**  
   Precious Plastic, Cincinnati, Ohio, United States  
   *September 2021 – December 2021*
-
-He is also the founder and CEO of Xtainable LLC, a company built on the thesis that AI should be
-explainable first, then configured to be Sustainable, Maintainable, Attainable, and Containable for
-regulated industries such as healthcare, finance, and government. Its flagship product, EXI
-(Explainable Executive Intelligence), delivers auditable executive decision support.
 
 ### Awards
 
