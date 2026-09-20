@@ -49,4 +49,6 @@ sections:
       #     captcha: false
     design:
       columns: '1'
+summary: 'How to join the AI Bio Lab at the University of Cincinnati as a doctoral, master''s or undergraduate researcher, and how to reach the lab.'
+description: 'How to join the AI Bio Lab at the University of Cincinnati as a doctoral, master''s or undergraduate researcher, and how to reach the lab.'
 ---

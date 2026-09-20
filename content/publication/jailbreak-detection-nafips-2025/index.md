@@ -48,8 +48,7 @@ abstract: Jailbreaking in Large Language Models (LLMs) threatens their safe use 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
-
+featured: false
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link

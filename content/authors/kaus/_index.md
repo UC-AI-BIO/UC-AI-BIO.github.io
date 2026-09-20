@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Kaus Shankar
+title: Kaaustaaub Shankar
 
 # Full name (for SEO)
-first_name: Kaus
+first_name: Kaaustaaub
 last_name: Shankar
 
 # Username (this should match the folder name)
@@ -17,7 +17,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: Undergrad, Computer Science
+role: M.S. 2026
 
 # Organizations/Affiliations
 organizations:
@@ -26,7 +26,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: >
-  Kaus is a Computer Science student pursuing a Bachelors and Masters in Computer Science and is interested in researching how to scale interpretable models up for better results while maintaining interpretretability.
+  Kaaustaaub completed a Bachelor's and Master's in Computer Science at the University of Cincinnati, researching how to scale interpretable models while maintaining interpretability.
 
 interests:
   - Fuzzy Logic Control (FLC)
@@ -75,8 +75,10 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - 'Alumni — M.S.'
   # - Visitors
 ---
 
-Kaus is a Computer Science student pursuing a Bachelors and Masters in Computer Science and is interested in researching how to scale interpretable models up for better results while maintaining interpretretability.
+Kaaustaaub completed a Bachelor's and Master's in Computer Science at the University of Cincinnati. His research interest is in scaling interpretable models up for better results while maintaining interpretability.
+
+M.S., University of Cincinnati, 2026.

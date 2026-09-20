@@ -13,8 +13,11 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+# Highlight the author in lists?
+highlight_name: true
+
 # Role/position
-role: PhD Candidate, Aerospace Engineering
+role: Ph.D. Candidate, Aerospace Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -57,6 +60,12 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/magnus-sieverding/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/sievermf
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Magnus-Sieverding
 #   - icon: github
 #     icon_pack: fab
 #     link: https://github.com/lohithsrikanth
@@ -100,3 +109,7 @@ Fuzzy Logic to large, real-world engineering problems.
   Precious Plastic, Cincinnati, Ohio, United States  
   *September 2021 – December 2021*
 
+### Awards
+
+- Co-author, Best Student Paper Award, NAFIPS 2026
+- First author, Outstanding Paper Award, NAFIPS 2025

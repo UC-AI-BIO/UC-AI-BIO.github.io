@@ -1,5 +1,5 @@
 ---
-title: 'Fuzzy Logic Based Scheduling for Part-time Workforce'
+title: 'LLM-as-a-Fuzzy-Judge'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -40,8 +40,7 @@ abstract: Clinical communication skills are critical in medical education, and p
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
-
+featured: false
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link

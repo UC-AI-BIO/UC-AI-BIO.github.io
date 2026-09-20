@@ -5,7 +5,7 @@ title: 'Fuzzy Feature Augmentation for Privacy-Preserving Machine Learning: Impr
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - John Cavanaugh
+  - john
   - tri
   - kelly
 
@@ -39,8 +39,7 @@ abstract: |
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
-
+featured: false
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link

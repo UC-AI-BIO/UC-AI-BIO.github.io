@@ -7,7 +7,7 @@ title: 'A model agnostic eXplainable AI based fuzzy framework for sensor constra
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - ben
-  - Anoop Sathyan
+  - anoop-sathyan
   - kelly
 
 # # Author notes (optional)
@@ -39,8 +39,7 @@ abstract: Machine Learning methods have extensively evolved to support industria
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
-
+featured: false
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link

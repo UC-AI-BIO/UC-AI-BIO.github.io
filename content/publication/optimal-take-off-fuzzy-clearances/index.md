@@ -6,7 +6,7 @@ title: 'Optimal Take-off under Fuzzy Clearances'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - hugo
-  - Arthur
+  - arthur
   - kelly
 
 # # Author notes (optional)
@@ -38,7 +38,6 @@ tags: []
 
 # Display this page in the Featured widget?
 featured: true
-
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link

@@ -1,0 +1,38 @@
+{{/* Hugo Blox: Citation view */}}
+{{/* Local override of the theme partial.                                        */}}
+{{/* Difference from upstream: the theme leads with the author list and buries    */}}
+{{/* the title mid-sentence. Here the paper title comes first, then the venue and */}}
+{{/* year, then the authors. Scanning a publication list is a title-first task.   */}}
+{{/* Re-check this file when upgrading the theme.                                 */}}
+
+{{ $item := .item }}
+{{ $has_attachments := partial "functions/has_attachments" $item }}
+
+{{ $venue := "" }}
+{{ if $item.Params.publication_short }}
+  {{ $venue = $item.Params.publication_short }}
+{{ else if $item.Params.publication }}
+  {{ $venue = $item.Params.publication }}
+{{ end }}
+
+<div class="pub-list-item view-citation">
+  <div class="article-title">
+    <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>
+  </div>
+
+  <div class="article-venue">
+    {{ with $venue }}<em>{{ . | markdownify }}</em>, {{ end }}{{ $item.Date.Format "2006" }}
+  </div>
+
+  {{ if $item.Params.authors }}
+  <div class="article-metadata li-cite-author">
+    {{ partial "page_metadata_authors" $item }}
+  </div>
+  {{ end }}
+
+  {{ if $has_attachments }}
+  <div class="btn-links">
+    {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+  </div>
+  {{ end }}
+</div>

@@ -7,8 +7,8 @@ title: 'A Genetic Fuzzy-Enabled Framework on Robotic Manipulation for In-Space S
 authors:
   - nate
   - wilhelm
-  - Nicholas Ernest
-  - Timothy Arnett
+  - nicholas-ernest
+  - tim-arnett
   - kelly
 
 # # Author notes (optional)
@@ -40,7 +40,6 @@ tags: []
 
 # Display this page in the Featured widget?
 featured: true
-
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link

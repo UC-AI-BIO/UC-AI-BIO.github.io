@@ -12,19 +12,17 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Faculty
-          - Principal Investigators
-          - Researchers
           - Ph.D. Students
-          - Grad Students
-          - Masters
+          - M.S. Students
           - Undergraduate Students
-          - Administration
-          - Visitors
-          - Alumni
+          - Alumni — Ph.D.
+          - Alumni — M.S.
       sort_by: Params.last_name
       sort_ascending: true
     design:
       show_interests: false
       show_role: true
       show_social: true
+summary: 'The people of the AI Bio Lab at the University of Cincinnati: Prof. Kelly Cohen, current doctoral, master''s and undergraduate researchers, and the lab''s Ph.D. and M.S. alumni.'
+description: 'The people of the AI Bio Lab at the University of Cincinnati: Prof. Kelly Cohen, current doctoral, master''s and undergraduate researchers, and the lab''s Ph.D. and M.S. alumni.'
 ---

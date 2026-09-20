@@ -17,7 +17,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: PhD Candidate, Aerospace Engineering
+role: Ph.D. Candidate, Aerospace Engineering
 
 # Organizations/Affiliations
 organizations:

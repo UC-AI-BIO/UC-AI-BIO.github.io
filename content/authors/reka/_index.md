@@ -17,7 +17,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: MS Student, Aerospace Engineering
+role: M.S. Student, Aerospace Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -30,16 +30,17 @@ bio: >
  
 
 interests:
-  - Explainable Artificial Intelligence (XAI)
+  - Trustworthy AI for aerospace systems
+  - Autonomous aircraft collision avoidance and decision-making
+  - Explainable AI for aviation safety
   - Run Time Assurance (RTA)
-  - Reliable systems
 
 education:
   courses:
-    - course: MS in Aerospace Engineering
+    - course: M.S. in Aerospace Engineering
       institution: University of Cincinnati
-      year: 2026
-    - course: BS in Mechanical Engineering
+      year: Expected Dec 2026
+    - course: B.S. in Mechanical Engineering
       institution: Southern Methodist University
       year: 2025
 
@@ -73,6 +74,13 @@ email: 'patel9rk@mail.uc.edu'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - MS Students
+  - 'M.S. Students'
   # - Visitors
 ---
+
+### Awards
+
+- SMU Provost & Discovery Scholar
+- UC Grad Incentive Scholarship
+- Ohio Space Grant Scholarship
+- Passed the FE Exam (Mechanical), April 2025

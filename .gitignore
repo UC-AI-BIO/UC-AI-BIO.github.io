@@ -5,3 +5,6 @@
 /resources/
 public/
 assets/jsconfig.json
+
+# Hugo build lock
+.hugo_build.lock

@@ -37,8 +37,7 @@ abstract: Lack of robustness is a common issue exhibited by many machine learnin
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
-
+featured: false
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
