@@ -291,3 +291,40 @@
   }
   p { margin-bottom: 0; }
 }
+
+
+/* --- Publication list: title first, then venue, then authors --- */
+
+.pub-list-item.view-citation {
+  .article-title {
+    font-size: 1.15rem;
+    font-weight: 600;
+    line-height: 1.35;
+    margin-bottom: 0.15rem;
+  }
+
+  .article-venue {
+    font-size: 0.95rem;
+    color: #555;
+    margin-bottom: 0.2rem;
+  }
+
+  .article-metadata {
+    font-size: 0.95rem;
+    color: #555;
+    margin-bottom: 0.5rem;
+  }
+
+  .author-highlighted { font-weight: 600; }
+
+  .btn-links { margin-bottom: 0; }
+}
+
+/* Members without a headshot sit in their own block after the photographed
+   ones, so give their cards a consistent width instead of letting the name
+   alone set it. */
+.people-person-nophoto {
+  min-width: 11rem;
+  max-width: 14rem;
+  padding-top: 0.25rem;
+}

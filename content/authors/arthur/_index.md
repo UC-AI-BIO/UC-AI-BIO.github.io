@@ -17,7 +17,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: M.S. Student, Aerospace Engineering
+role: M.S. 2026
 
 # Organizations/Affiliations
 organizations:
@@ -74,6 +74,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 'M.S. Students'
+  - 'Alumni — M.S.'
   # - Visitors
 ---
+
+M.S. in Aerospace Engineering, University of Cincinnati, 2026.
