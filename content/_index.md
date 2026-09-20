@@ -20,9 +20,9 @@ sections:
     design:
       background:
         image:
-          filename: welcome.jpg
+          filename: lab-team.jpg
           filters:
-            brightness: 0.4
+            brightness: 0.55
         text_color_light: true
       spacing:
         padding: ['4rem', '0', '4rem', '0']
@@ -214,8 +214,8 @@ sections:
   - block: collection
     id: featured-publications
     content:
-      title: 'Featured Publications'
-      count: 3
+      title: 'Award-Winning Publications'
+      count: 4
       filters:
         folders:
           - publication
@@ -244,17 +244,13 @@ sections:
       offset: 0
       order: desc
       page_type: post
+      archive:
+        enable: true
+        text: 'See all news'
+        link: /post/
     design:
       view: compact
       columns: '1'
-
-  - block: markdown
-    content:
-      title: ''
-      text: |
-        [See all news →](/post/)
-    design:
-      columns: '1'
       spacing:
-        padding: ['0', '0', '3rem', '0']
+        padding: ['1rem', '0', '3rem', '0']
 ---

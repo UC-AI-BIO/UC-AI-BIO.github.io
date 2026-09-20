@@ -37,8 +37,7 @@ abstract: This paper presents a performance benchmarking study of a Gradient-Opt
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
-
+featured: false
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
